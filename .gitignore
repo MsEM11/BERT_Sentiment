@@ -2,3 +2,6 @@
 
 # Folder containing datasets
 /CSVs
+
+# Presentation
+*.pptx
